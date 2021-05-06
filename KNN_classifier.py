@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Adam Wojdyla
+@author: Adam
 
 """
 
