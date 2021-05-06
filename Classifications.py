@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Adam Wojdyla
+@author: Adam 
 
 """
 def cls(): return print("\033[2J\033[;H", end='')
