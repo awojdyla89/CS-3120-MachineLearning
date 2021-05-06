@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: Adam
-@Assignment: Homework 2 Binary Classification
+
 
 """
 def cls(): return print("\033[2J\033[;H", end='')
