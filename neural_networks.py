@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 16 14:23:28 2021
-
-
 
 """
 
