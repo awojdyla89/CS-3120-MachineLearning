@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Adam C Wojdyla
-
-Homework1-1
+@author: Adam 
 
 """
 import matplotlib.pyplot as plt
